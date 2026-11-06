@@ -18,7 +18,7 @@ var viewer = pannellum.viewer('panorama',{
   
         "image-1": {
         "type": "equirectangular",
-        "panorama": "East End 46.7m.JPG",// CHANGE THE IMAGE NAME
+        "panorama": "East End 46.7m.jpg",// CHANGE THE IMAGE NAME
         "hfov":200,
         "haov":360,
         "vaov":86,
@@ -31,7 +31,7 @@ var viewer = pannellum.viewer('panorama',{
 
       "image-2": {
         "type": "equirectangular",
-        "panorama": "West End 46.7m.JPG",  // CHANGE THE IMAGE NAME
+        "panorama": "West End 46.7m.jpg",  // CHANGE THE IMAGE NAME
         "hfov":200,
         "haov":360,
         "vaov":86,
